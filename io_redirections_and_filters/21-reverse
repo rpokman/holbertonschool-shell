@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "test" | rev
+read -p mot && echo "$mot" | rev
